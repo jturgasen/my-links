@@ -1349,6 +1349,7 @@
 * [Forensics Wiki](http://www.forensicswiki.org/wiki/Main_Page) - Digital forensics wiki, tons of tools and information -- `wiki`
 * [FTimes](http://sourceforge.net/projects/ftimes/) - System baselining and evidence collection tool -- `C`
 * [fwknop (FireWall KNock OPerator)](http://www.cipherdyne.org/fwknop/) - Single Packet Authorization (SPA) aka next-generation port knocking -- `various lang`
+* [Gauntlt](http://gauntlt.org) - Automated security test framework based on Cucumber -- `Ruby`
 * [hashcat](https://hashcat.net/hashcat/) - World's fastest CPU password cracker / password recovery -- `C`
 * [Information Security Cheat Sheets and Checklists](http://zeltser.com/cheat-sheets/) - An assortment of IS checklists and cheat sheets -- `collection`
 * [Jailkit](http://olivier.sessink.nl/jailkit/) - chroot toolkit -- `C`
