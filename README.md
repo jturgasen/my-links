@@ -467,6 +467,7 @@
 * [logstalgia](http://logstalgia.io/) - Web site access log visualization tool, aka Apache Pong -- `C++`
 * [gdash](https://github.com/ripienaar/gdash) - Simple Graphite dashboard using Bootstrap -- `Ruby`
 * [Grafana](http://grafana.org/) - Modern dashboard for Graphite -- `JavaScript`
+* [Metabase](https://github.com/metabase/metabase) - web application for doing ad-hoc BI, canned reports, notifications (pulses) and even has a Slack bot. -- `Clojure`
 * [Mozaik](https://github.com/plouc/mozaik) - Create beautiful dashboards using Node/React/D3 -- `JavaScript`
 * [MRTG (Multi Router Traffic Grapher)](http://oss.oetiker.ch/mrtg/) - Still being updated -- `perl`
 * [Nagdash](https://github.com/lozzd/Nagdash) - Dashboard / NOC screen for Nagios -- `PHP`
@@ -477,6 +478,7 @@
 * [PNP4Nagios](http://docs.pnp4nagios.org/) - Analyzes performance data provided by plugins and stores them automatically into RRD-databases -- `PHP`
 * [promviz](https://github.com/nghialv/promviz) - Visualize the traffic of your clusters in realtime from Prometheus data  -- `Golang`
 * [redash](http://redash.io/) - Web application that allows to easily query an existing database, share the dataset and visualize it in different ways -- `various lang`
+* [Superset](https://github.com/apache/incubator-superset) - another web application in Apache Incubator for doing canned reports, ad-hoc reports, or visualizations -- `Python`
 * [ServerStatus](https://github.com/BotoX/ServerStatus) - Display and monitor your servers statistics in a beautiful way -- `C` `C++` `JavaScript`
 * [Seyren](https://github.com/scobal/seyren) - Alerting dashboard for Graphite -- `Java`
 * [Smashing](https://github.com/Smashing/smashing) - Successor to Dashing -- `Ruby`
