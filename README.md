@@ -262,7 +262,7 @@
 * [Chef Supermarket (community)](https://supermarket.chef.io/) - Official community site for cookbooks -- `various lang`
 * [Chef Supermarket (self-hosted)](https://github.com/chef/supermarket) - Cookbook repository for Chef, can be hosted internally -- `Ruby`
 * [Citadel](https://github.com/poise/citadel) - Cookbook to store secrets in AWS S3 buckets using EC2 and IAM -- `Ruby`
-* [Foodcritic](https://acrmp.github.io/foodcritic/) - Chef linter and static code analysis -- `Ruby gem`
+* [Foodcritic](https://github.com/foodcritic/foodcritic) - Chef linter and static code analysis -- `Ruby gem`
 * [grocery-delivery](https://github.com/facebook/grocery-delivery) - Utility for managing cookbook uploads to distributed Chef backends, by Facebook -- `Ruby`
 * [Handlers](https://docs.chef.io/handlers.html#community-handlers) - The official list of community written handlers (Airbrake, IRC, Campfire, etc) -- `Ruby`
 * [Itamae](https://github.com/itamae-kitchen/itamae) - CM tool inspired by Chef, but simpler and lightweight, formerly LightChef -- `Ruby gem`
